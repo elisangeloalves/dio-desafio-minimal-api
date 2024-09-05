@@ -1,10 +1,10 @@
 <h1 align=center> Projeto Desafio Minimal-API<h1/>
 
-## Descrição
+## 📋 Descrição
 
 Projeto desafio implementado para consolidar todo o conhecimento adquirido no de backend nos Fundamentos e sintáxe de linguagem com .NET + C# , POO e banco de dados estudados na trilha XP Inc. Full-Stack Developer 
 
-## Assuntos Abordados
+## 🗂️ Assuntos Abordados
 
 - [x] .NETCore
 - [x] CSharp
